@@ -1,0 +1,3 @@
+User-agent: *
+Allow:
+Sitemap: https://uat.daniela-fitness.cz/sitemap.xml
